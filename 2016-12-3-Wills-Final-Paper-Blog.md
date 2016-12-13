@@ -14,7 +14,7 @@ image:
   thumb: blog-images/wills-Blog-post-3-image.png
   homepage: blog-images/wills-Blog-post-3-image.png
 ---
-    In the time of the Egyptian Gazette, and specifically the year 1905, many of the worlds 
+In the time of the Egyptian Gazette, and specifically the year 1905, many of the worlds 
 major powers resided in Europe and Asia, while the continent of Africa was behind.  For my
 cereal question, I would like to take a look into the influence some of these major European and
 Asian powers had evident in the Egyptian newspaper.  More specifically, I would like to look into
@@ -29,7 +29,8 @@ Russia to movements made by the English, as they would regularly lead to a serie
 reactions.  Querying has resulted in a good amount of topics regarding Egyptian-English
 relations, as well as on the topic of the Anglo-Japanese Treaty, and through varying the search
 queries, plenty of data is available regarding this topic.    
-    The visual aid of this project is a map utilizing the app Palladio.  After spending hours
+    
+   The visual aid of this project is a map utilizing the app Palladio.  After spending hours
 attempting to find a way to save the Palladio file, the discovery of there being no way was made.
 In order for the map to be viewed, the text line at the bottom of this blog must be copied and
 pasted into an editing software, such as oxygen.  Once the line of text has been pasted, this
